@@ -442,7 +442,7 @@
 
 <h3>𝑯𝒆𝒏𝒄𝒆 𝒊𝒕 𝒈𝒐𝒆𝒔 𝒍𝒊𝒌𝒆: −</h3>
 
-![Screenshot (801)](https://github.com/AvinandanBose/Types_Of_Recursion/assets/38869235/7cec2782-2ba5-41e4-9d2f-709ec2261d20)
+![Screenshot (811)](https://github.com/AvinandanBose/Types_Of_Recursion/assets/38869235/5c1b225d-f95c-4b28-b278-35c94ae0002d)
 
 <br>
 <br>
@@ -455,9 +455,7 @@
 <br>
 <br>
 
-![Screenshot (802)](https://github.com/AvinandanBose/Types_Of_Recursion/assets/38869235/01579a6e-1830-43f2-829f-e80fea6ff943)
-
-
+<img src="https://github.com/AvinandanBose/Types_Of_Recursion/assets/38869235/6c6e0d15-3086-45e0-b9be-3bf303e90762" width=600 height="700">
 
 
 </ul>
